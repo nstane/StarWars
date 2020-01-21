@@ -2,7 +2,7 @@
 https://swapi.co/documentation
 
 Run APP with below command : 
--npm install 
--reat-native run-ios
+- npm install 
+- react-native run-ios
 
 Main Screen :
